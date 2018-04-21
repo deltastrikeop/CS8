@@ -12,3 +12,6 @@ Hours spent: 4 hours
 ![Alt Text](E5.gif)
 6) Session Hijacking
 ![Alt Text](E6.gif)
+
+Which attacks were easiest to execute? Which were the most difficult?
+Easiest one was the username enumeration, yet it was hard since I wasn't sure at first what to look at. The hardest was Cross Site Request Forgery since there were so many fields
